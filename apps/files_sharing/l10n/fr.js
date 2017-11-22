@@ -104,7 +104,7 @@ OC.L10N.register(
     "shared by %s" : "partagé par %s",
     "Download" : "Télécharger",
     "Direct link" : "Lien direct",
-    "Add to your Nextcloud" : "Ajouter à votre Nextcloud",
+    "Add to your Nextcloud" : "Ajouter à votre compte",
     "Download %s" : "Télécharger %s",
     "Upload files to %s" : "Téléversement des fichiers vers %s",
     "Select or drop files" : "Sélectionner ou glisser-déposer vos fichiers",
